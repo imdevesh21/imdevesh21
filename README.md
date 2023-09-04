@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **frontend project's**
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨‍💻 All of my projects are available at [coming soon]
 
-- 📝 I regularly write articles on [comming soon](comming soon)
+- 📝 I regularly write articles on [coming soon]
 
 - 📫 How to reach me **deveshsharma.it23@gmail.com**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hey_devesh_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hey_devesh_here" height="30" width="40" /></a>
+<a href="https://twitter.com/Hi_devesh_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hi_devesh_here" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deveshsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deveshsharma" height="30" width="40" /></a>
 <a href="https://discord.gg/theywayshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="theywayshh" height="30" width="40" /></a>
 </p>
