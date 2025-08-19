@@ -26,7 +26,6 @@
 
 ---
 
-## ⏳ Visitors & Clock  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imdevesh21&style=for-the-badge&color=00F7FF" />
@@ -36,14 +35,12 @@
 
 ---
 
-## 🎬 Silicon Valley Vibes  
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600" />
 </p>
 
 ---
 
-## 🌀 3D GitHub Stats  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdevesh21&theme=tokyonight" />
@@ -56,7 +53,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imdevesh21&theme=tokyonight&utcOffset=8" />
 </p>
 
-## 🧭 Skill Graph
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={
