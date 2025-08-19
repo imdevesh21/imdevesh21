@@ -1,90 +1,81 @@
-<!-- GitHub Profile README -->
+<!-- Futuristic GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Devesh Sharma</h1>
-<h3 align="center">Fullstack Developer | Problem Solver | Tech Enthusiast</h3>
-
----
-
-## 🚀 About Me  
-- 🔭 I’m currently working on **MERN / Java / Competitive Programming**  
-- 🌱 I’m learning **System Design & Cloud (AWS/GCP)**  
-- 💬 Ask me about **DSA, Java, JS, React, Node.js, Databases**  
-- ⚡ Fun fact: I love debugging more than coding 😅  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Devesh+Sharma;Full+Stack+Developer+💻;DSA+%7C+System+Design+%7C+AI+Enthusiast" />
+</h1>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,python,php" />
-</p>
-
-### 🗄️ Database & Cloud
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,aws" />
-</p>
-
-### 🛠️ Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
-</p>
+## 🛰️ About Me  
+🌍 Exploring the universe of **Fullstack Development & Problem Solving**  
+⚡ Passion for **DSA, Backend Architecture, and Cloud**  
+🎯 Goal: To build futuristic apps that solve real-world problems  
 
 ---
 
-## ⏰ Visitors & Clock  
+## 🧑‍🚀 Tech Arsenal (3D Style)
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="profile views" />
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://skillicons.dev/icons?i=react,next,js,ts,tailwind,bootstrap,html,css" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,python,php" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,aws" height="50"/>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Animation" />
 </p>
 
 ---
 
-## 🎬 Silicon Valley Vibes
+## ⏳ Visitors & Clock  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="500" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" />
+  <img src="https://clock.now.sh/api?timezone=Asia/Kolkata&color=cyan&size=150" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎬 Silicon Valley Vibes  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="180"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600" />
 </p>
 
 ---
 
-## 🎧 Spotify Now Playing
+## 🌀 3D GitHub Stats  
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=8" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🎧 Spotify – What I’m Vibing To
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&bar_color=00F7FF&bar_color_cover=true" />
 </p>
 
 ---
 
-## 📬 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+## 🛰️ Contribution Galaxy 🌌
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
 </p>
