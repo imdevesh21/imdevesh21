@@ -47,14 +47,14 @@
 ## 🌀 3D GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdevesh21&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdevesh21&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imdevesh21&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdevesh21&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imdevesh21&theme=tokyonight&utcOffset=8" />
 </p>
 
 ---
@@ -68,14 +68,14 @@
 
 ## 🛰️ Contribution Galaxy 🌌
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imdevesh21&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
+  <a href="https://www.linkedin.com/in/devesh-sharma-68106b2a5"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="mailto:deveshsharma.it23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://twitter.com/hey_devesh_here"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
 </p>
