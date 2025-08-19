@@ -30,8 +30,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imdevesh21&style=for-the-badge&color=00F7FF" />
-  <img src="https://clock.now.sh/api?timezone=Asia/Kolkata&color=cyan&size=150" />
+  <img src="https://img.shields.io/badge/Time-Asia%2FKolkata-00F7FF?style=for-the-badge&logo=clockify" />
 </p>
+
 
 ---
 
