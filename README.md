@@ -1,5 +1,3 @@
-<!-- Futuristic GitHub Profile README -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Devesh+Sharma;Full+Stack+Developer+💻;DSA+%7C+System+Design+%7C+AI+Enthusiast" />
 </h1>
@@ -13,7 +11,7 @@
 
 ---
 
-## 🧑‍🚀 Tech Arsenal (3D Style)
+## 🧑‍🚀 Tech Arsenal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,next,js,ts,tailwind,bootstrap,html,css" height="50"/>
@@ -31,7 +29,7 @@
 ## ⏳ Visitors & Clock  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" />
+  <img src="https://komarev.com/ghpvc/?username=imdevesh21&style=for-the-badge&color=00F7FF" />
   <img src="https://clock.now.sh/api?timezone=Asia/Kolkata&color=cyan&size=150" />
 </p>
 
@@ -57,11 +55,44 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imdevesh21&theme=tokyonight&utcOffset=8" />
 </p>
 
+## 🧭 Skill Graph
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'radar',
+    data:{
+      labels:['Frontend','Backend','DSA','DevOps'],
+      datasets:[{
+        label:'Skill Level',
+        data:[85,80,75,65],
+        backgroundColor:'rgba(0,247,255,0.2)',
+        borderColor:'rgba(0,247,255,1)',
+        pointBackgroundColor:'rgba(255,255,255,1)',
+        borderWidth:2
+      }]
+    },
+    options:{
+      scales:{
+        r:{
+          angleLines:{color:'rgba(255,255,255,0.2)'},
+          grid:{color:'rgba(255,255,255,0.2)'},
+          pointLabels:{color:'white'},
+          ticks:{color:'cyan'}
+        }
+      },
+      plugins:{
+        legend:{labels:{color:'white'}}
+      }
+    }
+  }&backgroundColor=black&width=500&height=500&format=png" />
+</p>
+
+
 ---
 
 ## 🎧 Spotify – What I’m Vibing To
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&bar_color=00F7FF&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rhyig7thqbj7j7w567hdtf76cm&cover_image=true&theme=default&bar_color=00F7FF" alt="Spotify Now Playing" />
 </p>
 
 ---
